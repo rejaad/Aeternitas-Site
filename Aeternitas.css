@@ -10,7 +10,7 @@ body {
 .box {
 	border: medium;
 	border-color: black;
-	align-items: center;
+	text-align: center;
 }
 
 p{
