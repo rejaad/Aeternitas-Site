@@ -7,3 +7,14 @@ body {
 	text-align: center;
 }
 
+#list {
+	column-count: 3;
+	column-gap: 40px;
+	column-rule-style: dotted;
+	
+}
+
+p{
+	color: white;
+	text-align: center;
+}
