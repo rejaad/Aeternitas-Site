@@ -7,14 +7,21 @@ body {
 	text-align: center;
 }
 
-#list {
-	column-count: 3;
-	column-gap: 40px;
-	column-rule-style: dotted;
-	
+.box {
+	border: medium;
+	border-color: black;
+	align-items: center;
 }
 
 p{
 	color: white;
 	text-align: center;
+}
+
+button {
+	background-color: silver;
+	border: none;
+	padding: 5px;
+	text-align: center;
+	
 }
