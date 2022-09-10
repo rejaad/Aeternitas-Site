@@ -7,10 +7,14 @@ body {
 	text-align: center;
 }
 
-.box {
-	border: medium;
-	border-color: black;
+.DL {
 	text-align: center;
+	
+}
+
+a {
+	color: white;
+	border-bottom: dotted;
 }
 
 p{
